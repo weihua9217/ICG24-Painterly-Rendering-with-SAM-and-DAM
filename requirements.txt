@@ -1,0 +1,6 @@
+opencv-python
+numpy
+transformers
+supervision
+segment_anything
+torch
