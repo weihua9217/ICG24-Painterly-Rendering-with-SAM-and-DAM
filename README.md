@@ -18,8 +18,8 @@ pip install -r requirements.txt
 
 ### Input Image & Output of DAM
 ![Input](./images/tomato.png) 
-![DAM](depth_tomato-1.png) 
+![DAM](depth_tomato.png) 
 
 ### Output of SAM & Output of our Algorithm
-![SAM](sam_tomato-1.png)
-![Render](canvas_tomato-1.png) 
+![SAM](sam_tomato.png)
+![Render](canvas_tomato.png) 
